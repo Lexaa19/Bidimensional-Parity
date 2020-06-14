@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\ParitateBidimensionala\obj\Debug\ParitateBidimensionala.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ParitateBidimensionala\bin\Debug\ParitateBidimensionala.exe.config
+C:\Users\pc\source\repos\ParitateBidimensionala\bin\Debug\ParitateBidimensionala.exe
+C:\Users\pc\source\repos\ParitateBidimensionala\bin\Debug\ParitateBidimensionala.pdb
+C:\Users\pc\source\repos\ParitateBidimensionala\obj\Debug\ParitateBidimensionala.exe
+C:\Users\pc\source\repos\ParitateBidimensionala\obj\Debug\ParitateBidimensionala.pdb
+C:\Users\pc\source\repos\ParitateBidimensionala\obj\Debug\ParitateBidimensionala.csprojAssemblyReference.cache
