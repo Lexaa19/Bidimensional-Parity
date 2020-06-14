@@ -12,7 +12,6 @@ namespace ParitateBidimensionala
             {
                 if ((userInput.Contains("1") || userInput.Contains("0")))
                 {
-                   // Console.WriteLine("Your input is correct!");
                    
                 }
                 return true;
